@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikon07&label=Profile%20views&color=0e75b6&style=flat" alt="rikon07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikon07" alt="rikon07" /></a> </p>
-<img align = "right" alt = "coding" width = "400" src"https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" align = "right" alt = "coding" width = "400">
 - 📫 How to reach me **mh13mahedi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
