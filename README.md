@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Md. Mahedi Hasan (Rikon)</h1>
 <h3 align="center">A passionate frontend developer from DHAKA, BANGLADESH</h3>
 
