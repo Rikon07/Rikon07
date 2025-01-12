@@ -1,13 +1,11 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Md. Mahedi Hasan (Rikon)</h1>
-<h3 align="center">A passionate programmer from DHAKA, BANGLADESH</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikon07&label=Profile%20views&color=0e75b6&style=flat" alt="rikon07" /> </p>
+<h3 align="center">A passionate frontend developer from DHAKA, BANGLADESH</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikon07" alt="rikon07" /></a> </p>
-<img src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" align = "right" alt = "coding" width = "400">
-- 📫 How to reach me **mh13mahedi@gmail.com**
 
+- 📫 How to reach me **mh13mahedi@gmail.com**
+<img src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" align = "right" alt = "coding" width = "400">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rikon07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikon07" height="30" width="40" /></a>
