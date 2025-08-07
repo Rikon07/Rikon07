@@ -5,7 +5,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikon07" alt="rikon07" /></a> </p>
 
 - 📫 How to reach me **mh13mahedi@gmail.com**
-<img src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" align = "right" alt = "coding" width = "400">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rikon07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikon07" height="30" width="40" /></a>
