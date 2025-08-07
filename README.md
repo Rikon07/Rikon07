@@ -1,8 +1,6 @@
-![Header](./github-header-image.png)
 
+<img width="2000" height="393" alt="GitHub Header" src="https://github.com/user-attachments/assets/3e005bf3-d81a-43fa-871b-f35130db8f4d" />
 
-
-<img width="2000" height="600" alt="Blue and White Geometric Technology Linkedin Banner copy" src="https://github.com/user-attachments/assets/289e1d20-06e1-4437-b2c2-f4132b4e0ab5" />
 
 ![developer](https://github.com/user-attachments/assets/d36dc00f-de39-4d44-b800-35130c26d22f)
 
