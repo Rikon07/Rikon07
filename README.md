@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi, I'm <Rikon /> </h1>
+<h1 align="center">Hi, I'm '<Rikon />' </h1>
 <h3 align="center">A passionate Programmer from DHAKA, BANGLADESH</h3>
 
 
