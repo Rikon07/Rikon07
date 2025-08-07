@@ -2,10 +2,12 @@
 
 
 
+<img width="2000" height="600" alt="Blue and White Geometric Technology Linkedin Banner copy" src="https://github.com/user-attachments/assets/289e1d20-06e1-4437-b2c2-f4132b4e0ab5" />
+
 ![developer](https://github.com/user-attachments/assets/d36dc00f-de39-4d44-b800-35130c26d22f)
 
 <h1 align="center">Hi, I'm Rikon </h1>
-<h3 align="center">A passionate Programmer from DHAKA, BANGLADESH</h3>
+<h3 align="center">A passionate Web Developer (MERN) from DHAKA, BANGLADESH</h3>
 
 
 - 📫 How to reach me **mh13mahedi@gmail.com**
