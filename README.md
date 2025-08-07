@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi,👋  I'm Rik-on</h1>
+<h1 align="center">Hi, I'm <Rikon /> </h1>
 <h3 align="center">A passionate Programmer from DHAKA, BANGLADESH</h3>
 
 
@@ -30,6 +30,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rikon07&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h3 align="left">🏆 GitHub Trophies</h3>
+
 ![](https://github-profile-trophy.vercel.app/?username=rikon07&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
