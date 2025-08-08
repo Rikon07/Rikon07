@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi, I'm Md. Mahedi Hasan <strong>(Rikon)</strong></h1>
+<h1 align="center">Hi, I'm Md. Mahedi Hasan <strong>Rikon</strong></h1>
 
 ###
 
