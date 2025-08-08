@@ -67,6 +67,7 @@
 <a href="https://www.codechef.com/users/rik_on" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rik_on" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rik_on" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rik_on" height="30" width="40" /></a>
 </p>
+<p align="center">📫 How to reach me <strong>mh13mahedi@gmail.com</strong></p>
 
 
 ###
@@ -81,6 +82,7 @@
 
 ###
 
+<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rikon07&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
