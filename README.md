@@ -1,15 +1,64 @@
+<div align="center">
+  <img height="400" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif"  />
+</div>
 
-<img width="2000" height="393" alt="GitHub Header" src="https://github.com/user-attachments/assets/3e005bf3-d81a-43fa-871b-f35130db8f4d" />
+###
 
+<h1 align="center">Hi, I'm Md. Mahedi Hasan <Rikon /></h1>
 
-![developer](https://github.com/user-attachments/assets/d36dc00f-de39-4d44-b800-35130c26d22f)
+###
 
-<h1 align="center">Hi, I'm Rikon </h1>
-<h3 align="center">A passionate Web Developer(MERN) from DHAKA, BANGLADESH</h3>
+<h4 align="center">A passionate Web Developer (MERN Stack) from DHAKA, BANGLADESH</h4>
 
+###
 
--   -  📫 How to reach me **mh13mahedi@gmail.com**
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+</div>
+
+###
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rikon07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikon07" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Rik.on07/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedi hasan rikon" height="30" width="40" /></a>
@@ -19,42 +68,6 @@
 <a href="https://www.leetcode.com/rik_on" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rik_on" height="30" width="40" /></a>
 </p>
 
-
-
-
-<h3 align="left">Tech Stack:</h3>
-
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="10" />
-</div>
 
 ###
 
@@ -68,12 +81,11 @@
 
 ###
 
-<br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rikon07&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rikon07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rikon07&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false&custom_title=Rikon's%20Contribution%20Graph" height="20" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=rikon07&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rikon07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2&custom_title=Rikons" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rikon07&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
