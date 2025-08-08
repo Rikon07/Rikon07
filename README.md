@@ -71,7 +71,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rikon07&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=rikon07&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="350" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rikon07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rikon07&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false&custom_title=Rikon's%20Contribution%20Graph" height="20" alt="activity-graph graph"  />
 </div>
