@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Web Developer(MERN) from DHAKA, BANGLADESH</h3>
 
 
-- 📫 How to reach me **mh13mahedi@gmail.com**
+-   -  📫 How to reach me **mh13mahedi@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rikon07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikon07" height="30" width="40" /></a>
