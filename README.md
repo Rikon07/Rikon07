@@ -12,7 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FE9801&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;Competitive-Programmer;" alt="Typing SVG" />
 </p>
 
-###
 
 <h4 align="center">A passionate Web Developer (MERN Stack) from DHAKA, BANGLADESH</h4>
 
