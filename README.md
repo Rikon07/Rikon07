@@ -6,11 +6,9 @@
 
 <h1 align="center">Hi, I'm Md. Mahedi Hasan <strong>Rikon</strong></h1>
 
-###
-
-<span align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FE9801&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;Competitive-Programmer;" alt="Typing SVG" />
-</span>
+</p>
 <h4 align="center">A passionate Web Developer (MERN Stack) from DHAKA, BANGLADESH</h4>
 
 ###
